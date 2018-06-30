@@ -3,11 +3,33 @@
 
   "contatos": [
 
-    { "id": 1, "nome": "Contato 1", "telefone": "83988554395" },
+    { "id": 1, "nome": "Ademir de Lucas", "telefone": "34294256" },
 
-    { "id": 2, "nome": "Contato 2", "telefone": "83988554396" },
+    { "id": 3, "nome": "Adelson Maria Mochetti", "telefone": "34294349" },
+   
+    { "id": 4, "nome": "Admilson Rogerio Margato", "telefone": "34294137" },
+    
+    { "id": 5, "nome": "Adna Prado Massarioli", "telefone": "34294349" },
+    
+    { "id": 6, "nome": "Adriana Bueno Moretti", "telefone": "34294263" },
+   
+    { "id": 7, "nome": "Alexandre Sebastião Soares", "telefone": "34294125" },
+   
+    { "id": 8, "nome": "Alfredo de Araújo", "telefone": "34294126" },
 
-    { "id": 3, "nome": "Contato 3", "telefone": "83988554397" }
+    { "id": 9, "nome": "Alicia Maria de Carvalho Nascimento Aguiar", "telefone": "34294235" },
+    
+    { "id": 10, "nome": "Allan Eleutério de Mello", "telefone": "34172163" },
+   
+    { "id": 11, "nome": "Alzira Ferraz Adão ", "telefone": "34294134" },
+
+    { "id": 12, "nome": "Amália Inês Antão", "telefone": "34294656" },
+    
+    { "id": 13, "nome": "Ana Cláudia Camargo Ruffini", "telefone": "34294215" },
+    
+    { "id": 14, "nome": "José Elias Gomes", "telefone": "34294349" },
+
+    { "id": 15, "nome": "José Fernando Machado Mente", "telefone": "34294247" }
 
   ]
 }
