@@ -1,7 +1,7 @@
 
 {
 
-  "posts": [
+  "contatos": [
 
     { "id": 1, "nome": "Contato 1", "telefone": "83988554395" },
 
