@@ -1,9 +1,13 @@
+
 {
-  "contatos": [
-    {
-      "id": 1,
-      "nome": "Gabriel",
-      "telefone": "83988554395"
-    }
+
+  "posts": [
+
+    { "id": 1, "nome": "Contato 1", "telefone": "83988554395" },
+
+    { "id": 2, "nome": "Contato 2", "telefone": "83988554396" },
+
+    { "id": 3, "nome": "Contato 3", "telefone": "83988554397" }
+
   ]
 }
